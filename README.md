@@ -14,6 +14,8 @@ The team project draws on datasets from [Inside Airbnb](http://insideairbnb.com/
 
 ## Method and results
 
+A quantitative analysis will be made on the dataset of Airbnb to answer the research question wether there is difference in pricing between super hosts and non-super hosts. The method is quantitative because we measure in numbers. The columns of the dataset of Venice will be analysed from an CSV file in R-studio and uploaded to Github.  
+
 First, introduce and motivate your chosen method, and explain how it contributes to solving the research question/business problem.
 
 Second, summarize your results concisely. Make use of subheaders where appropriate.
